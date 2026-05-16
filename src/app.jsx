@@ -221,7 +221,7 @@ function HomeView({setView,users,partidos,currentUser,setCurrentUser,showToast,i
         <div className="absolute inset-0 opacity-10" style={{backgroundImage:"repeating-linear-gradient(45deg,transparent,transparent 18px,rgba(255,255,255,0.04) 18px,rgba(255,255,255,0.04) 19px)"}}/>
         <div className="absolute -right-4 -top-4 text-6xl sm:text-[8rem] opacity-10 select-none rotate-12">🏆</div>
         <div className="relative p-4 sm:p-6">
-          <div className="text-red-300/70 text-[9px] sm:text-[10px] uppercase tracking-[0.35em] mb-2 font-semibold">⚽ Quiniela Oficial</div>
+          <div className="text-red-300/70 text-[9px] sm:text-[10px] uppercase tracking-[0.35em] mb-2 font-semibold">⚽ La Quiniela Oficial</div>
           <h1 className="text-white leading-[0.95] mb-3" style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(1.8rem,6vw,3.5rem)",letterSpacing:"0.03em"}}>
             LA QUINIELA<br/>DEL MUNDIAL
           </h1>
